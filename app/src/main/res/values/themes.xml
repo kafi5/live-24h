@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#0A1020</color>
+    <color name="blue">#2F7BFF</color>
+
+    <style name="Theme.LoopLive" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@color/bg</item>
+        <item name="android:statusBarColor">@color/bg</item>
+        <item name="android:navigationBarColor">@color/bg</item>
+        <item name="colorAccent">@color/blue</item>
+        <item name="android:textColorHint">#6B7AA3</item>
+    </style>
+</resources>
